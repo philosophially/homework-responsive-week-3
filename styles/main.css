@@ -5,9 +5,12 @@
 }
 
 body {
-  margin: auto;
+  margin: 60px auto;
   max-width: 800px;
+  padding: 20px 30px;
   font-size: 15px;
+  display: block;
+  justify-content: center;
 }
 
 h1,
@@ -122,12 +125,6 @@ p {
   h2 {
     font-size: 50px;
     text-align: center;
-  }
-
-  .project-link {
-    display: block;
-    text-align: center;
-    margin: 0 10px;
   }
 
   .primary-link {
