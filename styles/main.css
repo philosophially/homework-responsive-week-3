@@ -6,8 +6,8 @@
 
 body {
   margin: 100px auto;
-  max-width: 800px;
-  padding: 20px 30px;
+  max-width: 900px;
+  padding: 10px 15px;
   font-size: 15px;
   display: block;
 }
@@ -117,12 +117,12 @@ p {
   }
 
   h1 {
-    font-size: 30px;
+    font-size: 50px;
     line-height: 1.5;
   }
 
   h2 {
-    font-size: 50px;
+    font-size: 30px;
     text-align: center;
   }
 
